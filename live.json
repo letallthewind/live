@@ -42,6 +42,12 @@
       "url":"http://iptv.4666888.xyz/FYTV.txt",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}", 
       "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "海豚TV(python)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/%E6%B5%B7%E8%B1%9ATV.py",
+      "ext": {}
     }, 
     {
       "name":"YanG-1989",
